@@ -12,14 +12,18 @@ If you use this project for academic work, please consider citing our publicatio
     High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems.
     submitted, Preprint:arXiv:
 
-## Structure
-The code to all three examples is provided in python. Each of the numerical examples can be reproduced by running the correponding main_xx.py script.
-
-### Requirements
+## Installation
 To install all relevant packages execute 
 ```bash 
 pip install -r requirements.txt
 ```
+
+## 
+The code to all three examples is provided in Python. Each of the numerical examples can be reproduced by running the correponding main_xx.py script, i.e., by running 
+```
+ python main_ex1.py
+```
+
 ## Contact
 🧑‍💻 Nicolas Chatzikiriakos - [nicolas.chatzikiriakos@ist.uni-stuttgart.de](mailto:nicolas.chatzikiriakos@ist.uni-stuttgart.de)
 
