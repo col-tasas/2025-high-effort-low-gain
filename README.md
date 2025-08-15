@@ -1,1 +1,35 @@
-# 2025-high-effort-low-gain
+<!-- PROJECT SHIELDS -->
+[![arXiv][arxiv-shield]][arxiv-url]
+[![MIT License][license-shield]][license-url]
+[![Webpage][webpage-shield-NC]][webpage-url-NC]
+
+# High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems
+This repository contains the code from our paper "High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems" which can be acessed [here](). 
+
+If you use this project for academic work, please consider citing our publication 
+
+    Chatzikiriakos, N., Jamieson, K., & Iannelli, A. (2025). 
+    High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems.
+    submitted, Preprint:arXiv:
+
+## Structure
+The code to all three examples is provided in python. Each of the numerical examples can be reproduced by running the correponding main_xx.py script.
+
+### Requirements
+To install all relevant packages execute 
+```bash 
+pip install -r requirements.txt
+```
+## Contact
+🧑‍💻 Nicolas Chatzikiriakos - [nicolas.chatzikiriakos@ist.uni-stuttgart.de](mailto:nicolas.chatzikiriakos@ist.uni-stuttgart.de)
+
+[license-shield]: https://img.shields.io/badge/License-MIT-T?style=flat&color=blue
+[license-url]: https://github.com/col-tasas/2025-high-effort-low-gain/blob/main/LICENSE
+[webpage-shield-NC]: https://img.shields.io/badge/Webpage-Nicolas%20Chatzikiriakos-T?style=flat&logo=codementor&color=green
+[webpage-url-NC]: https://nchatzikiriakos.github.io
+[arxiv-shield]: https://img.shields.io/badge/arXiv-2409.18010-t?style=flat&logo=arxiv&logoColor=white&color=red
+[arxiv-url]: https://arxiv.org/
+[researchgate-shield-NC]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
+[researchgate-url-NC]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
+
+
