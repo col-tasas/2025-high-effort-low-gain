@@ -10,8 +10,10 @@ If you use this project for academic work, please consider citing our publicatio
 
     Chatzikiriakos, N., Jamieson, K., & Iannelli, A. (2025). 
     High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems.
-    submitted, Preprint:arXiv:
+    submitted, Preprint:arXiv:2509.11907
 
+This page is currently under construction. The full code will follow shortly. 
+<!--
 ## Installation
 To install all relevant packages execute 
 ```bash 
@@ -23,6 +25,7 @@ The code to all three examples is provided in Python. Each of the numerical exam
 ```
  python main_ex1.py
 ```
+--->
 
 ## Contact
 🧑‍💻 Nicolas Chatzikiriakos - [nicolas.chatzikiriakos@ist.uni-stuttgart.de](mailto:nicolas.chatzikiriakos@ist.uni-stuttgart.de)
@@ -31,8 +34,8 @@ The code to all three examples is provided in Python. Each of the numerical exam
 [license-url]: https://github.com/col-tasas/2025-high-effort-low-gain/blob/main/LICENSE
 [webpage-shield-NC]: https://img.shields.io/badge/Webpage-Nicolas%20Chatzikiriakos-T?style=flat&logo=codementor&color=green
 [webpage-url-NC]: https://nchatzikiriakos.github.io
-[arxiv-shield]: https://img.shields.io/badge/arXiv-2409.18010-t?style=flat&logo=arxiv&logoColor=white&color=red
-[arxiv-url]: https://arxiv.org/
+[arxiv-shield]: https://img.shields.io/badge/arXiv-2509.11907-t?style=flat&logo=arxiv&logoColor=white&color=red
+[arxiv-url]: https://arxiv.org/abs/2509.11907
 [researchgate-shield-NC]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
 [researchgate-url-NC]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
 
