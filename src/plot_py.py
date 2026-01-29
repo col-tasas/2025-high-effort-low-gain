@@ -18,10 +18,10 @@ data_path = Path("./data")
 # Specify which experiment to load
 # 1: main Example, 2: toy example, 3: random set
 # ------------------------------------------------------------------
-id = 3
+id = 1
 
 if id == 1:
-    data = np.load(data_path / "mainExample_comp.npz")
+    data = np.load(data_path / "exp_mainExample_structured.npz")
     nRho = 5
     labels = [
         r"Alg. 1 with $\rho_k \equiv 0$",
@@ -37,9 +37,9 @@ elif id == 2:
     nRho = 3
     labels = ["Algo with CE", "Algo with Oracle", "Isotropic Gaussian"]
     styles = ["-", "--", "-"]
-    
+
 elif id == 3:
-    data = np.load(data_path / "mainExample_randomSet.npz")
+    data = np.load(data_path / "exp_mainExample_randomSet.npz")
     nRho = 6
     labels = [
         r"$\rho_k=\frac{1}{1+k}$",

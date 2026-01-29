@@ -167,7 +167,7 @@ if __name__ == "__main__":
 
     # For plots in Python
     np.savez(
-        "data/mainExample_randomSet",
+        "data/exp_mainExample_randomSet",
         sysSet=sysSet,
         nMC=nMC,
         x_traj=x_traj,
