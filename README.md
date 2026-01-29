@@ -21,10 +21,10 @@ To install all relevant packages execute
 pip install -r requirements.txt
 ```
 ## Running experiments
-The code to all three examples is provided in Python. Each of the numerical examples can be reproduced by running the corresponding main_xx.py script, i.e., by running 
+The code to all three examples is provided in Python. Each of the numerical examples can be reproduced by running the corresponding main_xx.py script in the src folder, i.e., by running 
 ```
- python main_example.py
- python main_randomSet.py
+ python main_mainExample_structured.py
+ python main_mainExample_randomSet.py
  python main_toyExample.py
 
 ```
