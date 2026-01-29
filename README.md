@@ -10,22 +10,31 @@ If you use this project for academic work, please consider citing our publicatio
 
     Chatzikiriakos, N., Jamieson, K., & Iannelli, A. (2025). 
     High Effort, Low Gain: Fundamental Limits of Active Learning for Linear Dynamical Systems.
-    submitted, Preprint:arXiv:2509.11907
+    accepted for spotlight presentation at AISTATS 2026, Preprint:arXiv:2509.11907
 
 This page is currently under construction. The full code will follow shortly. 
-<!--
+
+
 ## Installation
 To install all relevant packages execute 
 ```bash 
 pip install -r requirements.txt
 ```
+## Running experiments
+The code to all three examples is provided in Python. Each of the numerical examples can be reproduced by running the corresponding main_xx.py script, i.e., by running 
+```
+ python main_example.py
+ python main_randomSet.py
+ python main_toyExample.py
 
-## 
-The code to all three examples is provided in Python. Each of the numerical examples can be reproduced by running the correponding main_xx.py script, i.e., by running 
 ```
- python main_ex1.py
+This will generate the data and saves it in a separate folder.
+The script 
 ```
---->
+plot_py.py 
+```
+can be used to plot the results. 
+
 
 ## Contact
 🧑‍💻 Nicolas Chatzikiriakos - [nicolas.chatzikiriakos@ist.uni-stuttgart.de](mailto:nicolas.chatzikiriakos@ist.uni-stuttgart.de)
